@@ -1414,16 +1414,28 @@ body {
   box-shadow: none !important;
 }
 .cid-rXp6CB2wmp {
-  background: linear-gradient(45deg, #50c47a, #465052);
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/screen-shot-2020-06-01-at-2.02.00-pm-1774x1104.png");
 }
 .cid-rXp6CB2wmp .mbr-section-subtitle {
   font-style: italic;
   letter-spacing: 1rem;
 }
+.cid-rXp6CB2wmp H3 {
+  color: #ffffff;
+}
+.cid-rXp6CB2wmp .mbr-section-title {
+  color: #ffffff;
+}
+.cid-rXp6CB2wmp .mbr-text,
+.cid-rXp6CB2wmp .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-rXp82HAnqV {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #8c164b, #c1a006);
+  background-image: url("../../../assets/images/screen-shot-2020-06-01-at-2.08.02-pm-1760x1084.png");
 }
 .cid-rXp82HAnqV .mbr-section-subtitle {
   font-style: italic;
@@ -1432,7 +1444,7 @@ body {
 .cid-rXpa6AAe8f {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #41f1d6, #f2500a);
+  background-image: url("../../../assets/images/screen-shot-2020-06-01-at-2.09.29-pm-1742x1084.png");
 }
 .cid-rXpa6AAe8f .mbr-section-subtitle {
   font-style: italic;
@@ -1441,7 +1453,7 @@ body {
 .cid-rXpbdoJjGz {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #e4d295, #064015);
+  background-image: url("../../../assets/images/screen-shot-2020-06-01-at-2.14.16-pm-1762x1098.png");
 }
 .cid-rXpbdoJjGz .mbr-section-subtitle {
   font-style: italic;
