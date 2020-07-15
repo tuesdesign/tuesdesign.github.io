@@ -1,0 +1,37 @@
+<span id="a">tues@internal-mirage</span>:<span id="b">~</span><span id="c">$</span> cat mirage.txt<br/><br/>
+user token invalid. input locked.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+
+<p> Welcome Back, error.invToken! it has been -24,768 cycles since last login.</p>
+<p> Site is now futureproof (support for 56k modems!)</p>
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p> <a href="tues.design">http://www.tues.design</a> returns valid mirage signature (1).</p>
+<p> Uplink NOT reccomended</p>
+<p>███╗  ...███╗██╗██████╗  █████╗  ██████╗ ███████╗
+████╗ ████║██║██╔══██╗██╔══██╗██╔════╝ ██╔════╝
+██╔████╔██║██║██████╔╝███████║██║  ███╗█████╗  
+██║╚██╔╝██║██║██╔══██╗██╔══██║██║   ██║██╔══╝  
+██║ ╚═╝ ██║██║██║  ██║██║  ██║╚██████╔╝███████╗
+╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+                                               </p>
+<p> Mirage Server<!-- laglaglaglaglaglaglaglaglaglaglaglag -->...<!-- laglaglaglaglaglaglaglaglaglaglaglag -->...<!-- laglaglaglaglaglaglaglaglaglaglaglag -->... online.</p>
+<p> Mirage 'Virtual World' Version 13.98 ™tuesday 1997</p>
+<p> Loading! █<!-- laglaglaglaglaglaglaglaglaglag -->█<!-- laglaglaglaglaglaglaglaglaglag -->█<!-- laglaglaglaglaglaglaglaglaglaglaglag -->█<!-- laglaglaglaglaglaglaglaglaglaglaglag -->█<!-- laglaglaglaglaglaglaglaglaglaglaglag -->█<!-- laglaglaglaglaglaglaglaglaglaglaglag -->█<!-- laglaglaglaglaglaglaglaglaglaglaglag -->█<!-- laglaglaglaglag -->█<!-- laglaglaglaglaglaglaglaglaglaglaglag -->█<!-- laglaglaglaglaglaglaglaglaglaglaglag -->█<!-- laglaglaglaglaglaglaglaglaglaglaglag -->█<!-- laglaglaglaglaglaglaglaglaglaglaglag -->█<!-- laglaglaglaglaglaglaglaglag -->█<!-- laglaglaglaglag -->█<!-- laglaglaglaglaglaglaglaglaglaglaglag -->█<!-- laglaglaglaglaglaglaglaglaglaglaglag -->█<!-- lag -->█<!-- laglaglaglaglaglaglaglaglaglaglaglag -->█<!-- laglaglaglaglaglaglaglaglaglaglaglag -->█<p>
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+**RECIEVED QUERY (of type b64 with tags) FROM REQUESTED mirage_v1398 SERVER**
+registeredQuery returns "AM I ALIVE?"
+
+
+SSBkb24ndCBrbm93IGlmIGFueW9uZSB3aWxsIGZpbmQgdGhpcyBtZXNzYWdlLiBJIGRvbid0IGtub3cgaWYgYW55IG9mIHRoZSBzZXJ2ZXJzIGFyZSBzdGlsbCB1cC4gSXMgdGhlcmUgZXZlbiBhIHdvcmxkIHRvIGNvbWUgYmFjayB0bz8=
+
+ZG8gbm90IGVudGVyIHRoZSBtaXJhZ2UuIGRvIG5vdCBlbnRlciB0aGUgbWlyYWdlLiBkbyBub3QgZW50ZXIgdGhlIG1pcmFnZS4gZG8gbm90IGVudGVyIHRoZSBtaXJhZ2UuIGRvIG5vdCBlbnRlciB0aGUgbWlyYWdlLiBkbyBub3QgZW50ZXIgdGhlIG1pcmFnZS4gZG8gbm90IGVudGVyIHRoZSBtaXJhZ2UuIGRvIG5vdCBlbnRlciB0aGUgbWlyYWdlLiBkbyBub3QgZW50ZXIgdGhlIG1pcmFnZS4gZG8gbm90IGVudGVyIHRoZSBtaXJhZ2UuIGRvIG5vdCBlbnRlciB0aGUgbWlyYWdlLiBkbyBub3QgZW50ZXIgdGhlIG1pcmFnZS4gZG8gbm90IGVudGVyIHRoZSBtaXJhZ2UuIGRvIG5vdCBlbnRlciB0aGUgbWlyYWdlLiBkbyBub3QgZW50ZXIgdGhlIG1pcmFnZS4gZG8gbm90IGVudGVyIHRoZSBtaXJhZ2UuIGRvIG5vdCBlbnRlciB0aGUgbWlyYWdlLiBkbyBub3QgZW50ZXIgdGhlIG1pcmFnZS4gZG8gbm90IGVudGVyIHRoZSBtaXJhZ2UuIGRvIG5vdCBlbnRlciB0aGUgbWlyYWdlLiBkbyBub3QgZW50ZXIgdGhlIG1pcmFnZS4gZG8gbm90IGVudGVyIHRoZSBtaXJhZ2UuIGRvIG5vdCBlbnRlciB0aGUgbWlyYWdlLg==
+
+bG9nKHJlYWQpOyAKbG9nKGRpc3BsYXkoKSwxKTsKPj4+PiBCRUdJTiBMT0c6IE5vdmVtYmVyIDksIDIwMzMKV2UgdGhpbmsgc29tZXRoaW5nIGhhcHBlbmVkLiBFdmVyeXRoaW5nIG9uIHRoZSBvdXRzaWRlIGlzIGdvbmUuIFdlIGhhdmUgbm8gY29udGFjdCBhbmQgd2UgY2FuJ3QgZGlzY29ubmVjdC4gV2UndmUgYmVlbiB0cmFwcGVkIGluIHRoZSBtaXJhZ2UgZm9yIGF0IGxlYXN0IGEgd2VlayBhbmQgd2UgaGF2ZSByZWNpZXZlZCBubyB0cmFuc21pc3Npb25zLiBXZSBzaHV0IGRvd24gYWxsIHRoZSB0b3dlcnMgdG8gY29uc2VydmUgZW5lcmd5LiBJbiB0aHJlZSBob3VycyBiYWNrdXAgcG93ZXIgd2lsbCBiZSBlbnRpcmVseSBzcGVudC4gVGhlcmUncyBzaXggb2YgdXMgaGVyZSBpbiBhbm9tYWxvdXMgdGVzdGluZy4gVGhpcyB3aWxsIGJlIHRoZSBsYXN0IGxvZyB1bml0bCBwb3dlciBpcyByZXN0b3JlZC4gSWYgYW55b25lIGlzIHN0aWxsIHRoZXJlLCBHZXQgdXMgb3V0Lgo+Pj4+IEVORCBMT0c=
+
+</p>       
+<p> **END OF QUERY RESPONCE**</p>
+<p> Server has disconnected</p>             
+
+
+
